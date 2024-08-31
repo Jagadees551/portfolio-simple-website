@@ -14,7 +14,7 @@ Welcome to my portfolio website! This project highlights my work and provides a 
 
 ## How to View
 
-You can access my portfolio website by visiting
+You can access my portfolio website by visiting https://jagadees551.github.io/portfolio-simple-website/
 
 ## Usage
 
